@@ -1,0 +1,15 @@
+# cfg
+path: D:\PycharmProjects\My_project\object\zip\aircraft\wtf
+
+train: D:\PycharmProjects\My_project\object\zip\aircraft\wtf\images\train\
+val:  D:\PycharmProjects\My_project\object\zip\aircraft\wtf\images\val\
+test: D:\PycharmProjects\My_project\object\zip\aircraft\wtf\images\test\
+
+
+nc : 1
+
+# class
+# names : ['0']
+# OBJ - Aircraft
+
+names : [Aircraft]
